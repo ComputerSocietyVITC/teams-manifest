@@ -1,0 +1,18 @@
+{
+  "$schema": "https://aka.ms/teamsfx-env-config-schema",
+  "description": "You can customize the TeamsFx config for different environments. Visit https://aka.ms/teamsfx-env-config to learn more about this.",
+  "manifest": {
+    "appName": {
+      "short": "vstudent-ieee",
+      "full": "VStudent by IEEE Computer Society VIT Chennai"
+    },
+    "description": {
+      "short": "Access important data easily",
+      "full": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ullamcorper nisl vel urna pretium mollis. Morbi molestie purus ut quam tempor, quis malesuada lectus interdum. Mauris elit risus, elementum a sapien a, tincidunt pulvinar quam. Morbi sed ornare ex. Curabitur eget diam gravida, convallis velit sed, posuere tellus. Integer accumsan, nulla at finibus viverra, augue ex bibendum magna, vitae elementum eros lorem ut turpis. Suspendisse malesuada, dui in suscipit accumsan, purus justo tincidunt sem, sit amet iaculis tortor mi a ipsum. Sed dapibus arcu vitae volutpat rhoncus. Vivamus eget lacinia eros. Praesent et pharetra augue, ut facilisis libero. Aenean consequat."
+    },
+    "icons": {
+      "color": "resources/purple-logo.png",
+      "outline": "resources/purple-logo.png"
+    }
+  }
+}

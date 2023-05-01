@@ -1,0 +1,28 @@
+{
+    "solution": {
+        "provisionSucceeded": true,
+        "teamsAppTenantId": "14b3ed19-2c23-4b7c-baf6-09a4bccd0d77",
+        "subscriptionId": "5646fa16-d6e4-4ce6-b706-97e58ee6f12c",
+        "subscriptionName": "Visual Studio Enterprise Subscription",
+        "tenantId": "84c31ca0-ac3b-4eae-ad11-519d80233e6f",
+        "needCreateResourceGroup": false,
+        "resourceGroupName": "ieee-computer-society-vit-chennai",
+        "location": "eastus",
+        "resourceNameSuffix": "ca6da5"
+    },
+    "fx-resource-appstudio": {
+        "tenantId": "14b3ed19-2c23-4b7c-baf6-09a4bccd0d77",
+        "teamsAppId": "d98ea440-60a9-4040-bb80-0e2bb9816d50"
+    },
+    "fx-resource-frontend-hosting": {
+        "indexPath": "/",
+        "domain": "vstudent.ieeecsvitc.com",
+        "endpoint": "https://vstudent.ieeecsvitc.com",
+        "storageResourceId": "/subscriptions/5646fa16-d6e4-4ce6-b706-97e58ee6f12c/resourceGroups/ieee-computer-society-vit-chennai/providers/Microsoft.Storage/storageAccounts/vtopchenna8bc4b6tab"
+    },
+    "fx-resource-identity": {
+        "identityName": "vtopchenna8bc4b6",
+        "identityResourceId": "/subscriptions/5646fa16-d6e4-4ce6-b706-97e58ee6f12c/resourceGroups/ieee-computer-society-vit-chennai/providers/Microsoft.ManagedIdentity/userAssignedIdentities/vtopchenna8bc4b6",
+        "identityClientId": "18a9760e-5cbf-44bf-bfa5-4a1ba13b5b1b"
+    }
+}
